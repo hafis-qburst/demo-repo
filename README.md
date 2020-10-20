@@ -2,4 +2,4 @@
 
 This is a github test repo.
 
-##Fyodor Dostoevsky
+##Leo Tolstoy
