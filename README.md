@@ -2,7 +2,6 @@
 
 This is a github test repo.
 
-##updating through github.
 ##Leo Tolstoy
 
 War and peace
