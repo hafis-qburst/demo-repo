@@ -12,4 +12,7 @@ Crime and Punishment
 
 
 Gabriel Garcia Marquez
+
+
+James Joyce
 Charles Dickens
